@@ -1,1 +1,6 @@
 .venv/
+.ipynb_checkpoints/
+.vscode/
+*.Identifier
+KNN_empty.ipynb
+KNN_empty.ipynb:Zone.Identifier
